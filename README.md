@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Luch85
-- 👀 I’m interested in machine lerning
+- 👀 I’m interested in machine learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
